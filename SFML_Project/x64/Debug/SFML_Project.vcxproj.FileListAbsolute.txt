@@ -1,0 +1,4 @@
+D:\ааааааааааааа ебаааааать\r\SFML_Project\x64\Debug\SFML_Project.exe
+D:\ааааааааааааа ебаааааать\r\SFML_Project\x64\Debug\SFML_Project.pdb
+D:\zhopa\r\SFML_Project\x64\Debug\SFML_Project.exe
+D:\zhopa\r\SFML_Project\x64\Debug\SFML_Project.pdb
